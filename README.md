@@ -1,6 +1,6 @@
 # ProyectAIOT2024
 
-#Integrantes
+##Integrantes
 -Carlos Palma 1222100814
 
 ## Carta de libereacion  del proyecto
